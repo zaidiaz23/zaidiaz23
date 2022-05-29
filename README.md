@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidiaz23)](https://github.com/zaidiaz23/zaidiaz23)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zaidiaz23&repo=LornaWing)](https://github.com/zaidiaz23/LornaWing)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zaidiaz23&repo=Gallery)](https://github.com/zaidiaz23/Gallery)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zaidiaz23&repo=neunsoft)](https://github.com/zaidiaz23/neunsoft)
