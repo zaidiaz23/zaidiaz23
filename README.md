@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ꔫ-🍧˚｡⋆୨୧˚  — Currently working as a QA manual. As you may know, quality it's so important and we all should care about it. 
+*:🍦·.♥ most of the time I learning something new. :mushroom:
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidiaz23)](https://github.com/zaidiaz23/github-readme-stats)
@@ -26,6 +28,6 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zaidiaz23&repo=Gallery)](https://github.com/zaidiaz23/Gallery)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zaidiaz23&repo=neunsoft)](https://github.com/zaidiaz23/neunsoft)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zaidiaz23&repo=neunsoft)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidiaz23&show_icons=true&theme=gruvbox)
