@@ -21,17 +21,15 @@ Here are some ideas to get you started:
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidiaz23)](https://github.com/zaidiaz23/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidiaz23)](https://github.com/zaidiaz23/zaidiaz23)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zaidiaz23&repo=LornaWing)](https://github.com/zaidiaz23/LornaWing)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zaidiaz23&repo=Gallery)](https://github.com/zaidiaz23/Gallery)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zaidiaz23&repo=neunsoft)](https://github.com/zaidiaz23/neunsoft)
-
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidiaz23&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidiaz23&show_icons=true&theme=gruvbox)](https://github.com/zaidiaz23/zaidiaz23)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zaidiaz23&repo=LornaWing&show_icons=true&theme=gruvbox)](https://github.com/zaidiaz23/LornaWing)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zaidiaz23&repo=Gallery&show_icons=true&theme=gruvbox)](https://github.com/zaidiaz23/Gallery)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zaidiaz23&repo=neunsoft&show_icons=true&theme=gruvbox)](https://github.com/zaidiaz23/neunsoft)
+
+
+
 
