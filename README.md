@@ -1,4 +1,4 @@
-### Hi sweety! :cherry_blossom:
+### Hi sweety! :cherry_blossom: :green_heart:
 
 <!--
 **zaidiaz23/zaidiaz23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ꔫ-🍧˚｡⋆୨୧˚  — Currently working as a QA manual. As you may know, quality it's so important and _we all should care about it_**.
 
-*:🍦·.♥ Most of the time I'm learning something new. :mushroom:
+*::tangerine:·.♥ Most of the time I'm learning something new. :mushroom:
 
 
 
