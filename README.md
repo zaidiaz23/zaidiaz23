@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ꔫ-🍧˚｡⋆୨୧˚  — Currently working as a QA manual. As you may know, quality it's so important and _we all should care about it_**.
 
-*::tangerine:·.♥ Most of the time I'm learning something new. :mushroom:
+*::tangerine:·. Most of the time I'm learning something new. :mushroom:
 
 
 
