@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ꔫ-🍧˚｡⋆୨୧˚  — Currently working as a QA manual. As you may know, quality it's so important and _we all should care about it_**.
 
-*:🍦·.♥ >most of the time I'm learning something new. :mushroom:
+*:🍦·.♥ Most of the time I'm learning something new. :mushroom:
 
 
 
@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidiaz23&show_icons=true&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidiaz23&show_icons=true&theme=gruvbox)](https://github.com/zaidiaz23/zaidiaz23)
+
