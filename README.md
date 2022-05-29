@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 *::tangerine:·. Most of the time I'm learning something new. :mushroom:
 
-╭-🐇✯•✿´♡  — Let me know if I can help you with something, we'll have so much fun while we trying to resolve some problems, probably.
+╭-🐇✯•✿´♡  — Let me know if I can help you with something, we'll have so much fun while we trying to solve some problems, probably.
 
 ___
 
