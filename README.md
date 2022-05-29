@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidiaz23)](https://github.com/zaidiaz23/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidiaz23)](https://github.com/zaidiaz23/zaidiaz23)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zaidiaz23&repo=zaidiaz23)](https://github.com/zaidiaz23/zaidiaz23)
