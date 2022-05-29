@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats] (https://github-readme-stats.vercel.app/api?username=zaidiaz23)](https://github.com/zaidiaz23/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidiaz23)](https://github.com/zaidiaz23/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=<username>&repo=<repository_name>)](https://github.com/<username>/<repository_name>)
