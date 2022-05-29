@@ -19,12 +19,15 @@ Here are some ideas to get you started:
 
 *::tangerine:·. Most of the time I'm learning something new. :mushroom:
 
+╭-🐇✯•✿´♡  — Let me know if I can help you with something:) 
 
-
+___
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidiaz23&show_icons=true&theme=gruvbox)
+___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidiaz23&show_icons=true&theme=gruvbox)](https://github.com/zaidiaz23/zaidiaz23)
+___
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zaidiaz23&repo=LornaWing&show_icons=true&theme=gruvbox)](https://github.com/zaidiaz23/LornaWing)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=zaidiaz23&repo=Gallery&show_icons=true&theme=gruvbox)](https://github.com/zaidiaz23/Gallery)
