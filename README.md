@@ -23,6 +23,7 @@ ___
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 <img alt="Azure DevOps" src="https://img.shields.io/badge/-AzureDevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
 <img alt="Lens" src="https://img.shields.io/badge/-Lens-3D90CE?style=flat-square&logo=lens&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> 
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
 <img alt="VSC" src="https://img.shields.io/badge/-VisualStudio-007ACC?style=flat-square&logo=visualstudio&logoColor=white" />
 <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
@@ -38,6 +39,8 @@ ___
 <img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white" />
 <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="UIKit" src="https://img.shields.io/badge/-UIKit-2396F3?style=flat-square&logo=uikit&logoColor=white" />
+<img alt="Mongo" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white" /> 
 </p>
 
 
