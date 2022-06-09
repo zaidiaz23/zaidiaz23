@@ -29,7 +29,12 @@ ___
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidiaz23&show_icons=true&theme=gruvbox)](https://github.com/zaidiaz23/zaidiaz23)
 ___
 
+### My Current Tech / Tools Stack
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
 
+
+### What I want to learn:
+<img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
 
 
 
