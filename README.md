@@ -31,10 +31,12 @@ ___
 
 ### My Current Tech / Tools Stack
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+<img alt="Azure DevOps" src="https://img.shields.io/badge/-Bootstrap-0078D7?style=flat-square&logo=bootstrap&logoColor=white" />
 
 
 ### What I want to learn:
 <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white" />
 
 
 
