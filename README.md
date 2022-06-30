@@ -1,4 +1,4 @@
-### Hi sweety! :grapes: :green_heart:
+### Hi dear friend! :grapes: :green_heart:
 
 <!--
 **zaidiaz23/zaidiaz23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
