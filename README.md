@@ -15,9 +15,6 @@ ___
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidiaz23&show_icons=true&theme=gruvbox)
 ___
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidiaz23&show_icons=true&theme=gruvbox)](https://github.com/zaidiaz23/zaidiaz23)
-___
-
 ### My Current Tech / Tools Stack
 <p>
 <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
