@@ -1,12 +1,11 @@
-### Hi dear friend! :grapes: :green_heart:
+### Hi dear friend! :grapes:
 
 <!--
 **zaidiaz23/zaidiaz23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 — Currently working as a QA manual. As you may know, quality it's so important and _we all should care about it_. Most of the time I'm learning something new.
-
-╭-🐇✯•✿´♡  — Let me know if I can help you with something, we'll have so much fun while we trying to solve some problems, probably.
+— Let me know if I can help you with something, we'll have so much fun while we trying to solve some problems, probably.
 
 ___
 
