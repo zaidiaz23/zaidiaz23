@@ -4,7 +4,7 @@
 **zaidiaz23/zaidiaz23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-ꔫ-:lemon:˚｡⋆୨୧˚  — Currently working as a QA manual. As you may know, quality it's so important and _we all should care about it_.
+— Currently working as a QA manual. As you may know, quality it's so important and _we all should care about it_.
 
 *::tangerine:·. Most of the time I'm learning something new. :mushroom:
 
